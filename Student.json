@@ -1,0 +1,159 @@
+[{
+  "_id": 0,
+  "name": "rasib",
+  "age": 21,
+  "department": "CSE",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b3a8a09c27d465224946db"
+  },
+  "name": "masud",
+  "age": 25,
+  "department": "CSE",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b3a8c39c27d465224946dc"
+  },
+  "name": "Lam",
+  "age": 25,
+  "department": "BBA",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b474da6b0cdd2568890568"
+  },
+  "name": "ashraful",
+  "age": 45,
+  "department": "ENV",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b474ef6b0cdd2568890569"
+  },
+  "name": "asif",
+  "age": 55,
+  "department": "ENV",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b475066b0cdd256889056a"
+  },
+  "name": "karim",
+  "age": 30,
+  "department": "CSE",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b4751b6b0cdd256889056b"
+  },
+  "name": "rahim",
+  "age": 22,
+  "department": "CSE",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b475386b0cdd256889056c"
+  },
+  "name": "meshbah",
+  "age": 28,
+  "department": "CSE",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b475556b0cdd256889056d"
+  },
+  "name": "linda",
+  "age": 21,
+  "department": "BBA",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b475656b0cdd256889056e"
+  },
+  "name": "samia",
+  "age": 41,
+  "department": "MBA",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b475996b0cdd256889056f"
+  },
+  "name": "John Doe",
+  "age": 18,
+  "department": "MATH",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b475ab6b0cdd2568890570"
+  },
+  "name": "Hamid",
+  "age": 33,
+  "department": "MATH",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b475b56b0cdd2568890571"
+  },
+  "name": "Siamur",
+  "age": 33,
+  "department": "MATH",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b475c06b0cdd2568890572"
+  },
+  "name": "Sihab",
+  "age": 23,
+  "department": "MATH",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b476a16b0cdd2568890573"
+  },
+  "name": "Zakaria",
+  "age": 22,
+  "department": "MATH",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b4771e6b0cdd2568890575"
+  },
+  "name": "Zarin",
+  "age": 22,
+  "department": "BBA",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b4772b6b0cdd2568890576"
+  },
+  "name": "Miftah",
+  "age": 30,
+  "department": "BBA",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b4773c6b0cdd2568890577"
+  },
+  "name": "Tasnuva",
+  "age": 20,
+  "department": "BBA",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b477526b0cdd2568890578"
+  },
+  "name": "Tuba",
+  "age": 28,
+  "department": "CSE",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+},{
+  "_id": {
+    "$oid": "60b4775c6b0cdd2568890579"
+  },
+  "name": "Rabbi",
+  "age": 28,
+  "department": "CSE",
+  "_class": "com.example.SpringbootMongo.Model.Student"
+}]
