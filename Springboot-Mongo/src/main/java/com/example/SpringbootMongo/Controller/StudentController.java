@@ -14,9 +14,11 @@ import java.util.List;
 public class StudentController {
     @Autowired
     private StudentRepository repo;
+    private int count =0;
 
     @GetMapping("/findAllStudent")
     public List<Student> getAllStudent(){
+        System.out.println("Request No: " + count++);
         return repo.findAll();
     }
 
